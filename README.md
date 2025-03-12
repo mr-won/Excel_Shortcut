@@ -15,7 +15,10 @@ Ctrl + Shift + End : 현재 위치한 셀부터 마지막 셀까지 범위 선�
 
 ## 한글파일
 
-칸/줄 지우기 = alt delete 한칸잡고
-alt+shift+n -> 자간 줄이기
-alt+shift+w -> 자간 키우기
-
+칸/줄 지우기 = alt delete 한칸잡고    
+alt+shift+n -> 자간 줄이기     
+alt+shift+w -> 자간 키우기      
+ctrl+Home => A1
+ctrl+End->마지막 행
+ctrl+Shift+Home -> 영역 선택하면서 a1으로이동
+만약 셀을 잡아둔(고정)인 상태라면 고정한 곳에서의 마지막
